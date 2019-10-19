@@ -1,2 +1,2 @@
-# chrome-icons
- Workarounds for arcane Chrome OS bugs
+# Chrome icons
+This repository contains resources to patch installed Chrome OS applications to restore the correct icons. This is attempted only with great reluctance and you will find nothing of value here. I'm truly sorry for the things terrible things I've done.
